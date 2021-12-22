@@ -1,6 +1,5 @@
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-
 import cigma.pfe.constrollers.ClientController;
 import cigma.pfe.models.Client;
 
